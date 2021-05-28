@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hospital-management-website/static/css/main.5ddd37ad.chunk.css",
+    "main.js": "/hospital-management-website/static/js/main.c55130c7.chunk.js",
+    "main.js.map": "/hospital-management-website/static/js/main.c55130c7.chunk.js.map",
+    "runtime-main.js": "/hospital-management-website/static/js/runtime-main.3b9541d2.js",
+    "runtime-main.js.map": "/hospital-management-website/static/js/runtime-main.3b9541d2.js.map",
+    "static/js/2.b6fcb9de.chunk.js": "/hospital-management-website/static/js/2.b6fcb9de.chunk.js",
+    "static/js/2.b6fcb9de.chunk.js.map": "/hospital-management-website/static/js/2.b6fcb9de.chunk.js.map",
+    "index.html": "/hospital-management-website/index.html",
+    "static/css/main.5ddd37ad.chunk.css.map": "/hospital-management-website/static/css/main.5ddd37ad.chunk.css.map",
+    "static/js/2.b6fcb9de.chunk.js.LICENSE.txt": "/hospital-management-website/static/js/2.b6fcb9de.chunk.js.LICENSE.txt",
+    "static/media/finaldoctor.16bcc85e.jpg": "/hospital-management-website/static/media/finaldoctor.16bcc85e.jpg",
+    "static/media/lab.6bbfe54f.jpg": "/hospital-management-website/static/media/lab.6bbfe54f.jpg",
+    "static/media/lab1.5f8bb262.jpg": "/hospital-management-website/static/media/lab1.5f8bb262.jpg",
+    "static/media/lab2.314ab599.jpg": "/hospital-management-website/static/media/lab2.314ab599.jpg",
+    "static/media/lab4.4b7046a4.jpg": "/hospital-management-website/static/media/lab4.4b7046a4.jpg",
+    "static/media/lab5.4b7046a4.jpg": "/hospital-management-website/static/media/lab5.4b7046a4.jpg",
+    "static/media/lab6.6f13678d.jpg": "/hospital-management-website/static/media/lab6.6f13678d.jpg",
+    "static/media/Home.css": "/hospital-management-website/static/media/newdoctor.6d9f5872.jpg",
+    "static/media/search-logo.a3b66e16.jpg": "/hospital-management-website/static/media/search-logo.a3b66e16.jpg",
+    "static/media/searchone.cadb2db8.jpg": "/hospital-management-website/static/media/searchone.cadb2db8.jpg",
+    "static/media/searchthree.947d97c4.jpg": "/hospital-management-website/static/media/searchthree.947d97c4.jpg",
+    "static/media/team2.499b0a1f.jpg": "/hospital-management-website/static/media/team2.499b0a1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b9541d2.js",
+    "static/js/2.b6fcb9de.chunk.js",
+    "static/css/main.5ddd37ad.chunk.css",
+    "static/js/main.c55130c7.chunk.js"
+  ]
+}
