@@ -1,0 +1,38 @@
+.about {
+    text-align: center;
+    color: #A73C46;
+    font-size: 2.5rem;
+    margin-bottom: 0.15rem;
+}
+
+.para {
+    text-align: center;
+    font-size: 1em;
+    color: #797979;
+    line-height: 1.8em;
+    margin:  0 auto;
+}
+
+.all-logo {
+    margin: 2rem;
+}
+
+.all-logo img {
+    margin: 0.5;
+    padding: 0.5rem;
+}
+
+.team {
+    text-align: center;
+    font-size: 2.5em;
+    color: #A73C46;
+}
+
+.team-logo {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.team-logo img {
+    padding: 0.5rem;
+}

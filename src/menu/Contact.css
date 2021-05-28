@@ -1,0 +1,20 @@
+.contact {
+    text-align: left;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.conatct-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.conatct-form input {
+    max-width: 30rem;
+    border: 1px solid #ccc;
+    margin-bottom: 1rem;
+} 
+
+.contact-btns {
+    width: 10%;
+}
